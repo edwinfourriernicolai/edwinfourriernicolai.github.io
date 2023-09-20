@@ -5,5 +5,5 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: This page presents my curriculum vitae. You can download it by clicking on the top pdf button.
+description: 
 ---
