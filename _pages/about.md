@@ -8,11 +8,7 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>School of International Studies</p>
-    <p>University of Trento</p>
-    <p>Via Tommaso Gar, 14</p>
-    <p>38122 Trento, TN, Italy</p>
+  address: > 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -28,4 +24,19 @@ I am a member of the [Empirical Economics Laboratory](https://empiricalmicroecla
 
 My different professional experiences have allowed me to develop my expertise in economic theory, statistics, empirical methods, as well as my skills in programming, communication and project management.
 
-**Research interests:** Labour, Innovation, Production, Inequality
+**Research interests:** Microeconomics, Labor, Technological Change, Welfare, Econometrics
+
+<br>
+
+---
+
+<br>
+
+**Contact:**
+
+> <span style="font-size: 14px;">
+> School of International Studies  
+> University of Trento  
+> Via Tommaso Gar, 14  
+> 38122 Trento, TN, Italy
+> </span>
