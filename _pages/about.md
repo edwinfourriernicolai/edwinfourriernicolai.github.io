@@ -6,7 +6,7 @@ subtitle: <a href='#'>School of International Studies & Department of Economics 
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: edwin_fourrier-nicolai_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: > 
 
