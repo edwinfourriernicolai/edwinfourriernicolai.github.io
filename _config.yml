@@ -22,6 +22,7 @@ baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -38,6 +39,7 @@ repo_trophies:
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
@@ -45,6 +47,7 @@ repo_trophies:
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: false
+
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -56,15 +59,15 @@ footer_fixed: false
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: edwin_fourrier-nicolai_profile_pic.jpg # The site-wide (default for all links) Open Graph preview image
+
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -108,6 +111,7 @@ zotero_username: # your zotero username
 contact_note: > # A note just under social media icons
 # You can add a note here about which of these is the best way to reach you. 
 
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -117,6 +121,7 @@ cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: google4d0bd567c58c6a8a.html # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -162,6 +167,7 @@ external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
 
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -185,6 +191,7 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -240,6 +247,7 @@ defaults:
     values:
       sitemap: false
 
+
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
@@ -248,6 +256,7 @@ jekyll-minifier:
   exclude: ['robots.txt']
   uglifier_args:
     harmony: true
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
@@ -266,6 +275,7 @@ jekyll-archives:
 
 display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
 display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -341,6 +351,7 @@ imagemagick:
   output_formats:
     webp: "-resize 800x"
 
+
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
@@ -369,6 +380,7 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+
 
 # -----------------------------------------------------------------------------
 # Library versions
@@ -403,6 +415,7 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
 
 # -----------------------------------------------------------------------------
 # Get external JSON data
