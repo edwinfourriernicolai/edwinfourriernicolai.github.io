@@ -8,14 +8,14 @@ middle_name:
 last_name: Fourrier-Nicolaï
 email: fourrier.edwin@gmail.com
 description: >
-  Edwin Fourrier-Nicolaï | Personal website
+  Edwin Fourrier-Nicolaï | Economist | Personal website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Edwin Fourrier-Nicolaï, Economics, Econometrics
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+lang: en # the language of your site (e.g. en, fr)
+icon: ⚝ # ★ ⚛️ 🎓 ✴️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://edwinfourriernicolai.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -66,7 +66,7 @@ max_width: 800px
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: edwin_fourrier-nicolai_profile_pic.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: edwin-fourrier-nicolai-profile-pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 
 # -----------------------------------------------------------------------------
