@@ -14,14 +14,14 @@ related_publications:
     </div>
 </div>
 <div class="caption">
-    Picture by <a href="https://unsplash.com/fr/@gozhanet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gozha Net</a> on <a href="https://unsplash.com/fr/photos/xDrxJCdedcI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    Picture by <a href="https://unsplash.com/fr/@gozhanet">Gozha Net</a> on <a href="https://unsplash.com/fr">Unsplash</a>
 </div>
 
-One of the main challenges for sustainable agriculture lies in maximizing yields while preserving the environment through a minimal use of resources. Digital transformation can help to address this challenge and it is the main strategy promoted by the European Union in this perspective. This project aims to estimate the effect of internet access on agricultural production, employment and environment.
+One of the main challenges for sustainable agriculture lies in maximizing yields while preserving the environment through a minimal use of resources. Digital transformation can help to address this challenge and it is the main strategy promoted by the European Union in this perspective.
 
-While internet plays a central role in information gathering as well as enabling the adoption of smart farming technologies and despite the growing interest from researchers and policy makers, the impact of Internet access on farm production and the environment remains unknown. 
+While internet plays a central role in information gathering as well as enabling the adoption of smart farming technologies, and despite the growing interest from researchers and policy makers, the impact of Internet access on farm production and the environment remains unknown. 
 
-The aim of the project is to estimate the effect of Internet access on Italian farms by combining data from Italian agricultural surveys with internet coverage data and environmental data. Specifically, this project proposes to examine whether access to the internet increases agricultural productivity, employment, diversification of productive activities and reduces environmental consequences (e.g. use of water, phytosanitary and fertilizing products, pollution, ...).
+The aim of this project is to estimate the effect of Internet access on agricultural production in Italy by combining data from agricultural surveys with internet coverage and environmental data. Specifically, this project proposes to examine whether access to the internet increases agricultural productivity, employment, diversification of productive activities and reduces environmental consequences (e.g. use of water, phytosanitary and fertilizing products, pollution, ...).
 
 This project is supported by the [Caritro Fondazione](https://www.fondazionecaritro.it/).
 
@@ -29,4 +29,4 @@ This project is supported by the [Caritro Fondazione](https://www.fondazionecari
 
 Start date: December 2022<br>
 End date: December 2024<br>
-Financing: 70 000€
+Financing: 68 000€

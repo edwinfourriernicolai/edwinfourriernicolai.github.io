@@ -24,7 +24,7 @@ I am a member of the [Empirical Economics Laboratory](https://empiricalmicroecla
 
 My different professional experiences have allowed me to develop my expertise in economic theory, statistics, empirical methods, as well as my skills in programming, communication and project management.
 
-**Research interests:** Microeconomics, Labor, Technological Change, Welfare, Econometrics
+**Research interests:** Data science, Econometrics, Economics, Innovation
 
 <br>
 
