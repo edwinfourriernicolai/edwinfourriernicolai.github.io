@@ -32,7 +32,7 @@ I am a member of the *Chair of Economics of AI and Innovation* headed by Simone 
 
 My different professional experiences have allowed me to develop my expertise in economic theory, statistics, empirical methods, as well as my skills in programming, communication and project management.
 
-**Research interests:** Data science, Econometrics, Economics, Innovation
+**Research interests:** Econometrics, Data science, Applied Economics
 
 <br>
 
